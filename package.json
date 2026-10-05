@@ -1,0 +1,9 @@
+{
+  "name": "meteor-dodge-duel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node -e \"console.log('Open index.html directly for local preview.')\""
+  }
+}
